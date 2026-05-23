@@ -1,2 +1,2 @@
-# bist-ag-analizi
-Borsa İstanbul sektörleri üzerinde ağ analizi ve öğrenci bağlantılarının incelenmesi
+# BİST Ağ Analizi Projesi
+Borsa İstanbul sektörlerini takip eden öğrenciler arasındaki ilişkilerin ağ analizi yöntemiyle incelenmesi.
